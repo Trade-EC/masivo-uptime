@@ -1,7 +1,7 @@
 url: https://app.masivo.ai/api/storefront/v1/auth/authorize
-status: down
+status: up
 code: 422
-responseTime: 237
-lastUpdated: 2024-10-23T15:18:43.423Z
+responseTime: 210
+lastUpdated: 2024-10-23T15:37:47.948Z
 startTime: 2024-10-23T13:31:03.560Z
 generator: Upptime <https://github.com/upptime/upptime>
