@@ -11,8 +11,8 @@ sites:
     url: https://www.masivo.ai/
   - name: API
     url: https://app.masivo.ai/api/storefront/v1/auth/authorize
-    expectedStatusCodes: 
-    - 422
+    expectedStatusCodes:
+      - 422
     
 
 assignees:
@@ -33,7 +33,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-      title: App
+    - title: App
       href: https://app.masivo.ai
 
 
