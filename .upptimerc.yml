@@ -11,7 +11,8 @@ sites:
     url: https://www.masivo.ai/
   - name: API
     url: https://app.masivo.ai/api/storefront/v1/auth/authorize
-    expectedStatus: 422
+    expectedStatusCodes: 
+    - 422
     
 
 assignees:
@@ -21,8 +22,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /masivo-uptime
+  cname: upptime.masivo.ai
+  # baseUrl: /masivo-uptime
   favicon: https://app.masivo.ai/favicon.ico
   logoUrl: https://app.masivo.ai/assets/images/logo.svg
   name: Masivo uptime
@@ -32,6 +33,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+      title: App
+      href: https://app.masivo.ai
 
 
 # Upptime also supports notifications, assigning issues, and more
