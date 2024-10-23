@@ -9,7 +9,7 @@ sites:
     url: https://docs.masivo.ai/overview
   - name: Marketing
     url: https://www.masivo.ai/
-  - name: Masivo API
+  - name: API
     url: https://app.masivo.ai/api/storefront/v1/auth/authorize
     expectedStatusCodes:
       - 422
