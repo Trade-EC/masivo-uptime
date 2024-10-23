@@ -11,8 +11,8 @@ sites:
     url: https://www.masivo.ai/
   - name: API
     url: https://app.masivo.ai/api/storefront/v1/auth/authorize
-    port: 443
-    check: "tcp-ping"
+    expectedStatus: 422
+    
 
 assignees:
   - luanlucho
