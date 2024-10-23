@@ -9,7 +9,7 @@ sites:
     url: https://docs.masivo.ai/overview
   - name: Marketing
     url: https://www.masivo.ai/
-  - name: API
+  - name: Masivo API
     url: https://app.masivo.ai/api/storefront/v1/auth/authorize
     expectedStatusCodes:
       - 422
@@ -34,7 +34,7 @@ status-website:
     - title: Status
       href: /
     - title: App
-      href: https://app.masivo.ai 
+      href: https://app.masivo.ai
 
 
 # Upptime also supports notifications, assigning issues, and more
