@@ -10,7 +10,7 @@ sites:
   - name: Marketing
     url: https://www.masivo.ai/
   - name: API
-    url: app.masivo.ai
+    url: https://app.masivo.ai/api/storefront/v1/auth/authorize
     port: 443
     check: "tcp-ping"
 
@@ -23,15 +23,16 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /masivo-uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://app.masivo.ai/favicon.ico
+  logoUrl: https://app.masivo.ai/assets/images/logo.svg
   name: Masivo uptime
-  introTitle: "**Massivo uptime** use the open-source uptime repo to monitor masivo, powered entirely by GitHub."
-  introMessage: On this page you can find all the information regarding Masivo product.
+  introTitle: "**Masivo uptime**"
+  themeUrl: https://trade-ec.github.io/masivo-uptime/main.css
+  introMessage: Check the availability of all Masivo services.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
