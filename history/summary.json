@@ -77,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.masivo.ai.ico",
     "slug": "queues",
     "status": "up",
-    "uptime": "2.20%",
-    "uptimeDay": "2.20%",
-    "uptimeWeek": "2.20%",
-    "uptimeMonth": "2.20%",
-    "uptimeYear": "2.20%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1627,
     "timeDay": 1627,
     "timeWeek": 1627,
     "timeMonth": 1627,
     "timeYear": 1627,
-    "dailyMinutesDown": {
-      "2024-11-14": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
