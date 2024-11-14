@@ -15,7 +15,7 @@ sites:
       - 422
   - name: Queues
     url: https://app.masivo.ai/api/health/queues
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     
 
 assignees:
