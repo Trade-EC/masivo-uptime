@@ -1,7 +1,7 @@
 url: https://app.masivo.ai/api/health/queues
-status: up
-code: 200
-responseTime: 7905
-lastUpdated: 2024-11-27T07:52:24.696Z
+status: degraded
+code: 504
+responseTime: 15090
+lastUpdated: 2024-11-27T08:01:44.744Z
 startTime: 2024-11-14T15:54:10.193Z
 generator: Upptime <https://github.com/upptime/upptime>
