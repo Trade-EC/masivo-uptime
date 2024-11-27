@@ -76,18 +76,19 @@
     "url": "https://app.masivo.ai/api/health/queues",
     "icon": "https://icons.duckduckgo.com/ip3/app.masivo.ai.ico",
     "slug": "queues",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 4828,
-    "timeDay": 8524,
-    "timeWeek": 5531,
-    "timeMonth": 4828,
-    "timeYear": 4828,
+    "time": 4759,
+    "timeDay": 7644,
+    "timeWeek": 5340,
+    "timeMonth": 4759,
+    "timeYear": 4759,
     "dailyMinutesDown": {
+      "2024-11-27": 0,
       "2024-11-14": 16
     }
   }
