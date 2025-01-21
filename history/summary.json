@@ -22,18 +22,20 @@
     "url": "https://docs.masivo.ai/overview",
     "icon": "https://icons.duckduckgo.com/ip3/docs.masivo.ai.ico",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 129,
-    "timeWeek": 154,
-    "timeMonth": 196,
-    "timeYear": 234,
-    "dailyMinutesDown": {}
+    "time": 363,
+    "timeDay": 6956,
+    "timeWeek": 1858,
+    "timeMonth": 620,
+    "timeYear": 363,
+    "dailyMinutesDown": {
+      "2025-01-21": 0
+    }
   },
   {
     "name": "Marketing",
