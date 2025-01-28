@@ -4,18 +4,20 @@
     "url": "https://app.masivo.ai/auth/signin",
     "icon": "https://icons.duckduckgo.com/ip3/app.masivo.ai.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 329,
-    "timeWeek": 324,
-    "timeMonth": 418,
-    "timeYear": 597,
-    "dailyMinutesDown": {}
+    "time": 598,
+    "timeDay": 502,
+    "timeWeek": 367,
+    "timeMonth": 426,
+    "timeYear": 598,
+    "dailyMinutesDown": {
+      "2025-01-28": 0
+    }
   },
   {
     "name": "Docs",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 353,
     "timeDay": 197,
-    "timeWeek": 1736,
+    "timeWeek": 218,
     "timeMonth": 617,
     "timeYear": 353,
     "dailyMinutesDown": {}
@@ -58,17 +60,19 @@
     "url": "https://app.masivo.ai/api/storefront/v1/auth/authorize",
     "icon": "https://icons.duckduckgo.com/ip3/app.masivo.ai.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 113,
-    "timeWeek": 120,
-    "timeMonth": 108,
+    "timeDay": 115,
+    "timeWeek": 119,
+    "timeMonth": 109,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 0
+    }
   }
 ]
