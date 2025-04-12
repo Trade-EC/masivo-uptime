@@ -4,19 +4,19 @@
     "url": "https://app.masivo.ai/auth/signin",
     "icon": "https://icons.duckduckgo.com/ip3/app.masivo.ai.ico",
     "slug": "app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 389,
-    "timeWeek": 365,
-    "timeMonth": 411,
-    "timeYear": 512,
+    "time": 510,
+    "timeDay": 282,
+    "timeWeek": 341,
+    "timeMonth": 403,
+    "timeYear": 510,
     "dailyMinutesDown": {
-      "2025-04-12": 1
+      "2025-04-12": 9
     }
   },
   {
