@@ -6,18 +6,16 @@
     "slug": "app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 341,
-    "timeWeek": 299,
-    "timeMonth": 411,
-    "timeYear": 494,
-    "dailyMinutesDown": {
-      "2025-05-14": 11
-    }
+    "time": 493,
+    "timeDay": 386,
+    "timeWeek": 332,
+    "timeMonth": 416,
+    "timeYear": 493,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Docs",
@@ -26,38 +24,34 @@
     "slug": "docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 125,
-    "timeWeek": 195,
-    "timeMonth": 215,
-    "timeYear": 286,
-    "dailyMinutesDown": {
-      "2025-05-14": 11
-    }
+    "time": 285,
+    "timeDay": 118,
+    "timeWeek": 199,
+    "timeMonth": 212,
+    "timeYear": 285,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Marketing",
     "url": "https://www.masivo.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/www.masivo.ai.ico",
     "slug": "marketing",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 161,
-    "timeWeek": 163,
-    "timeMonth": 149,
-    "timeYear": 202,
-    "dailyMinutesDown": {
-      "2025-05-14": 11
-    }
+    "time": 201,
+    "timeDay": 138,
+    "timeWeek": 156,
+    "timeMonth": 150,
+    "timeYear": 201,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -66,17 +60,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 125,
-    "timeWeek": 111,
-    "timeMonth": 106,
+    "timeDay": 117,
+    "timeWeek": 121,
+    "timeMonth": 107,
     "timeYear": 143,
-    "dailyMinutesDown": {
-      "2025-05-14": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
