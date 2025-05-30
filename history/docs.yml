@@ -1,7 +1,7 @@
 url: https://docs.masivo.ai/overview
-status: up
-code: 200
-responseTime: 77
-lastUpdated: 2025-05-29T23:01:43.597Z
+status: down
+code: 500
+responseTime: 10570
+lastUpdated: 2025-05-30T19:08:39.753Z
 startTime: 2024-10-23T16:21:51.494Z
 generator: Upptime <https://github.com/upptime/upptime>
