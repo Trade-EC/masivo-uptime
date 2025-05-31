@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 481,
-    "timeDay": 124,
-    "timeWeek": 310,
-    "timeMonth": 337,
+    "timeDay": 297,
+    "timeWeek": 305,
+    "timeMonth": 336,
     "timeYear": 481,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
-    "timeDay": 3632,
-    "timeWeek": 1384,
-    "timeMonth": 528,
+    "timeDay": 3673,
+    "timeWeek": 1369,
+    "timeMonth": 518,
     "timeYear": 321,
-    "dailyMinutesDown": {
-      "2025-05-30": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Marketing",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 165,
-    "timeWeek": 149,
-    "timeMonth": 132,
-    "timeYear": 197,
+    "time": 196,
+    "timeDay": 61,
+    "timeWeek": 119,
+    "timeMonth": 129,
+    "timeYear": 196,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 37,
-    "timeWeek": 97,
-    "timeMonth": 110,
+    "timeDay": 42,
+    "timeWeek": 78,
+    "timeMonth": 108,
     "timeYear": 141,
     "dailyMinutesDown": {}
   }
