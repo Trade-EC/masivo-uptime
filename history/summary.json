@@ -6,18 +6,16 @@
     "slug": "app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
     "timeDay": 485,
-    "timeWeek": 495,
-    "timeMonth": 377,
+    "timeWeek": 528,
+    "timeMonth": 383,
     "timeYear": 462,
-    "dailyMinutesDown": {
-      "2025-07-19": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Docs",
@@ -26,18 +24,16 @@
     "slug": "docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
     "timeDay": 126,
-    "timeWeek": 290,
-    "timeMonth": 232,
+    "timeWeek": 313,
+    "timeMonth": 220,
     "timeYear": 321,
-    "dailyMinutesDown": {
-      "2025-07-19": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Marketing",
@@ -46,18 +42,16 @@
     "slug": "marketing",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 105,
-    "timeWeek": 133,
-    "timeMonth": 141,
+    "timeWeek": 136,
+    "timeMonth": 143,
     "timeYear": 187,
-    "dailyMinutesDown": {
-      "2025-07-19": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -66,17 +60,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
     "timeDay": 223,
-    "timeWeek": 104,
-    "timeMonth": 105,
+    "timeWeek": 109,
+    "timeMonth": 107,
     "timeYear": 135,
-    "dailyMinutesDown": {
-      "2025-07-19": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
