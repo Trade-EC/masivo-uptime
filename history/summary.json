@@ -4,19 +4,19 @@
     "url": "https://app.masivo.ai/auth/signin",
     "icon": "https://icons.duckduckgo.com/ip3/app.masivo.ai.ico",
     "slug": "app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 0,
-    "timeWeek": 313,
-    "timeMonth": 429,
-    "timeYear": 462,
+    "time": 466,
+    "timeDay": 1825,
+    "timeWeek": 502,
+    "timeMonth": 471,
+    "timeYear": 466,
     "dailyMinutesDown": {
-      "2025-07-29": 0
+      "2025-07-29": 5
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "docs",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 318,
     "timeDay": 0,
@@ -36,7 +36,7 @@
     "timeMonth": 244,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2025-07-29": 0
+      "2025-07-29": 5
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.masivo.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/www.masivo.ai.ico",
     "slug": "marketing",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 0,
-    "timeWeek": 190,
-    "timeMonth": 160,
+    "timeDay": 102,
+    "timeWeek": 179,
+    "timeMonth": 158,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-07-29": 0
+      "2025-07-29": 5
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://app.masivo.ai/api/storefront/v1/auth/authorize",
     "icon": "https://icons.duckduckgo.com/ip3/app.masivo.ai.ico",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 0,
-    "timeWeek": 101,
-    "timeMonth": 104,
+    "timeDay": 47,
+    "timeWeek": 94,
+    "timeMonth": 102,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2025-07-29": 0
+      "2025-07-29": 5
     }
   }
 ]
