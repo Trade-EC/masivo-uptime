@@ -6,38 +6,34 @@
     "slug": "app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 466,
     "timeDay": 1825,
     "timeWeek": 502,
     "timeMonth": 471,
     "timeYear": 466,
-    "dailyMinutesDown": {
-      "2025-07-29": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Docs",
     "url": "https://docs.masivo.ai/overview",
     "icon": "https://icons.duckduckgo.com/ip3/docs.masivo.ai.ico",
     "slug": "docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 0,
-    "timeWeek": 289,
-    "timeMonth": 244,
+    "timeDay": 257,
+    "timeWeek": 285,
+    "timeMonth": 245,
     "timeYear": 318,
-    "dailyMinutesDown": {
-      "2025-07-29": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Marketing",
@@ -46,18 +42,16 @@
     "slug": "marketing",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 102,
     "timeWeek": 179,
     "timeMonth": 158,
     "timeYear": 187,
-    "dailyMinutesDown": {
-      "2025-07-29": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -66,17 +60,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
     "timeDay": 47,
     "timeWeek": 94,
     "timeMonth": 102,
     "timeYear": 133,
-    "dailyMinutesDown": {
-      "2025-07-29": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
