@@ -4,71 +4,79 @@
     "url": "https://app.masivo.ai/auth/signin",
     "icon": "https://icons.duckduckgo.com/ip3/app.masivo.ai.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 455,
-    "timeDay": 249,
-    "timeWeek": 341,
-    "timeMonth": 378,
+    "timeDay": 0,
+    "timeWeek": 356,
+    "timeMonth": 382,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 1
+    }
   },
   {
     "name": "Docs",
     "url": "https://docs.masivo.ai/overview",
     "icon": "https://icons.duckduckgo.com/ip3/docs.masivo.ai.ico",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 193,
-    "timeWeek": 255,
-    "timeMonth": 240,
+    "timeDay": 0,
+    "timeWeek": 275,
+    "timeMonth": 242,
     "timeYear": 312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 1
+    }
   },
   {
     "name": "Marketing",
     "url": "https://www.masivo.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/www.masivo.ai.ico",
     "slug": "marketing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 198,
-    "timeWeek": 154,
-    "timeMonth": 152,
+    "timeDay": 0,
+    "timeWeek": 163,
+    "timeMonth": 153,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 1
+    }
   },
   {
     "name": "API",
     "url": "https://app.masivo.ai/api/storefront/v1/auth/authorize",
     "icon": "https://icons.duckduckgo.com/ip3/app.masivo.ai.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 52,
-    "timeWeek": 88,
-    "timeMonth": 91,
+    "timeDay": 0,
+    "timeWeek": 83,
+    "timeMonth": 93,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   }
 ]
