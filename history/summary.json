@@ -6,18 +6,16 @@
     "slug": "app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 460,
     "timeDay": 1966,
     "timeWeek": 557,
     "timeMonth": 429,
     "timeYear": 460,
-    "dailyMinutesDown": {
-      "2025-08-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Docs",
@@ -26,18 +24,16 @@
     "slug": "docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
     "timeDay": 190,
     "timeWeek": 264,
     "timeMonth": 240,
     "timeYear": 312,
-    "dailyMinutesDown": {
-      "2025-08-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Marketing",
@@ -46,18 +42,16 @@
     "slug": "marketing",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 71,
     "timeWeek": 151,
     "timeMonth": 151,
     "timeYear": 184,
-    "dailyMinutesDown": {
-      "2025-08-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -66,17 +60,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 50,
     "timeWeek": 79,
     "timeMonth": 91,
     "timeYear": 129,
-    "dailyMinutesDown": {
-      "2025-08-25": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
