@@ -4,11 +4,11 @@
     "url": "https://app.masivo.ai/auth/signin",
     "icon": "https://icons.duckduckgo.com/ip3/app.masivo.ai.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 463,
     "timeDay": 990,
@@ -16,7 +16,7 @@
     "timeMonth": 467,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-08-27": 8
+      "2025-08-27": 1
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://docs.masivo.ai/overview",
     "icon": "https://icons.duckduckgo.com/ip3/docs.masivo.ai.ico",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
     "timeDay": 307,
@@ -36,7 +36,7 @@
     "timeMonth": 248,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-08-27": 8
+      "2025-08-27": 1
     }
   },
   {
@@ -44,11 +44,11 @@
     "url": "https://www.masivo.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/www.masivo.ai.ico",
     "slug": "marketing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 235,
@@ -56,7 +56,7 @@
     "timeMonth": 157,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2025-08-27": 7
+      "2025-08-27": 1
     }
   },
   {
@@ -64,11 +64,11 @@
     "url": "https://app.masivo.ai/api/storefront/v1/auth/authorize",
     "icon": "https://icons.duckduckgo.com/ip3/app.masivo.ai.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 75,
@@ -76,7 +76,7 @@
     "timeMonth": 90,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-08-27": 7
+      "2025-08-27": 0
     }
   }
 ]
