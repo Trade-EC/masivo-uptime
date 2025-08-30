@@ -4,10 +4,10 @@
     "url": "https://app.masivo.ai/auth/signin",
     "icon": "https://icons.duckduckgo.com/ip3/app.masivo.ai.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 461,
@@ -16,6 +16,7 @@
     "timeMonth": 429,
     "timeYear": 461,
     "dailyMinutesDown": {
+      "2025-08-30": 1,
       "2025-08-28": 17
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://docs.masivo.ai/overview",
     "icon": "https://icons.duckduckgo.com/ip3/docs.masivo.ai.ico",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 328,
@@ -36,6 +37,7 @@
     "timeMonth": 397,
     "timeYear": 328,
     "dailyMinutesDown": {
+      "2025-08-30": 1,
       "2025-08-28": 16
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://www.masivo.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/www.masivo.ai.ico",
     "slug": "marketing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -56,6 +58,7 @@
     "timeMonth": 171,
     "timeYear": 185,
     "dailyMinutesDown": {
+      "2025-08-30": 0,
       "2025-08-28": 16
     }
   },
@@ -64,9 +67,9 @@
     "url": "https://app.masivo.ai/api/storefront/v1/auth/authorize",
     "icon": "https://icons.duckduckgo.com/ip3/app.masivo.ai.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -76,6 +79,7 @@
     "timeMonth": 104,
     "timeYear": 129,
     "dailyMinutesDown": {
+      "2025-08-30": 0,
       "2025-08-28": 16
     }
   }
