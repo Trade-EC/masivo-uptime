@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://app.masivo.ai/assets/images/logo.svg
   name: Masivo uptime
   introTitle: "**Masivo uptime**"
-  themeUrl: https://uptime.masivo.ai/main.css
+  themeUrl: https://status.masivo.ai/main.css
   introMessage: Check the availability of all Masivo services.
   navbar:
     - title: Status
