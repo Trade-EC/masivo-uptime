@@ -21,7 +21,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.masivo.ai
+  cname: status.masivo.ai
   # baseUrl: /masivo-uptime
   favicon: https://app.masivo.ai/favicon.ico
   logoUrl: https://app.masivo.ai/assets/images/logo.svg
