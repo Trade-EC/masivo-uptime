@@ -1,7 +1,7 @@
 url: https://app.masivo.ai/auth/signin
-status: up
-code: 200
-responseTime: 444
-lastUpdated: 2025-10-20T23:02:08.726Z
+status: down
+code: 500
+responseTime: 221
+lastUpdated: 2025-10-21T17:38:46.444Z
 startTime: 2024-10-23T16:21:50.767Z
 generator: Upptime <https://github.com/upptime/upptime>
